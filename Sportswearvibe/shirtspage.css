@@ -4,7 +4,7 @@ body {
 	margin-right: 15%;
 	font-family: georgia;
 }
-
+/* header */
 header {
   background: black;
 }
@@ -19,7 +19,7 @@ header li {
 	margin-right: auto;
 	height: 70px;
 }
-
+/* logo */
 .logo {
 	display: block;
 	margin-left: auto;
@@ -51,7 +51,7 @@ header li {
 li {
 	float: left;
 }
-
+/* navigation */
 .navbar {
     overflow: hidden;
     background-color: black;
